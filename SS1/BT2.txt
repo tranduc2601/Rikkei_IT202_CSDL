@@ -1,0 +1,11 @@
+Thực thể và Thuộc tính:
+
+Môn học: Bao gồm các thuộc tính định danh và mô tả là Mã môn học (khóa chính), Tên môn, và Số tín chỉ.
+
+Mục tiêu học tập: Bao gồm thuộc tính Nội dung mục tiêu (ví dụ: đạt điểm cao, hoàn thành bài tập).
+
+Mối quan hệ:
+
+Giữa Môn học và Mục tiêu học tập tồn tại mối quan hệ Một - Nhiều (1-N): Một môn học có thể thiết lập nhiều mục tiêu khác nhau, nhưng mỗi mục tiêu cụ thể chỉ gắn liền với duy nhất một môn học.
+
+Xét trong ngữ cảnh quản lý của một cá nhân, mối quan hệ giữa Sinh viên và Môn học là quan hệ Một - Nhiều (1-N), trong đó một sinh viên theo học cùng lúc nhiều môn học khác nhau.
